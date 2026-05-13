@@ -306,6 +306,3 @@ Analytics / Dashboards
 
 Abeer Omar
 
-GitHub Repository:
-
-https://github.com/Abeer-omar/Real-Time-IOT-Data-Pipeline-Project-MongoDB
