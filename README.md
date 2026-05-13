@@ -75,9 +75,9 @@ realtime-iot-project/
 ├── .gitignore
 └── venv/
 
-<img width="826" height="260" alt="image" src="https://github.com/user-attachments/assets/02ed2305-da08-404d-bb01-f3762746f4ae" />
 
 ```
+<img width="826" height="260" alt="image" src="https://github.com/user-attachments/assets/02ed2305-da08-404d-bb01-f3762746f4ae" />
 
 ---
 
@@ -232,25 +232,23 @@ consumer/consumer.py
 
 # Kafka UI
 
-```md
+
 <img width="1912" height="516" alt="kafka1" src="https://github.com/user-attachments/assets/a723e336-c405-4f4a-b3e9-c82dca43273d" />
 
 <img width="1911" height="632" alt="kafka2" src="https://github.com/user-attachments/assets/85451efa-6217-48fc-9a74-85e6d5bd5389" />
 
 <img width="1652" height="825" alt="kafka3" src="https://github.com/user-attachments/assets/43a4810e-7f87-4a2e-96ce-d7eed0589338" />
 
-```
+
 
 ---
 
 # Mongo Express UI
 
 
-```md
 
 <img width="1471" height="861" alt="Mongo Express" src="https://github.com/user-attachments/assets/20e8ae7c-4eab-4f10-9b4a-a3013360d683" />
 
-```
 
 ---
 
